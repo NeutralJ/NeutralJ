@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/gallery/neural-network-2N13S4C" height="200"/>
+  <img src="https://i.imgur.com/oIxP6I0.png" height="200"/>
 </p>
 <br>
 
